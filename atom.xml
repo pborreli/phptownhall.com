@@ -2,10 +2,10 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
 
   <title><![CDATA[PHP Town Hall]]></title>
-  <link href="http://philsturgeon.github.com/phptownhall/atom.xml" rel="self"/>
-  <link href="http://philsturgeon.github.com/phptownhall/"/>
-  <updated>2012-12-20T11:55:59-05:00</updated>
-  <id>http://philsturgeon.github.com/phptownhall/</id>
+  <link href="http://phptownhall.com//atom.xml" rel="self"/>
+  <link href="http://phptownhall.com//"/>
+  <updated>2012-12-20T14:13:53-05:00</updated>
+  <id>http://phptownhall.com//</id>
   <author>
     <name><![CDATA[Phil Sturgeon &amp; Ben Edmunds]]></name>
     
@@ -15,9 +15,9 @@
   
   <entry>
     <title type="html"><![CDATA[Episode 3: The EE revolt of 2012 and why you should unit-test your shit]]></title>
-    <link href="http://philsturgeon.github.com/phptownhall/blog/2012/12/20/episode-3-ee-revolt-unit-test/"/>
+    <link href="http://phptownhall.com//blog/2012/12/20/episode-3-ee-revolt-unit-test/"/>
     <updated>2012-12-20T10:47:00-05:00</updated>
-    <id>http://philsturgeon.github.com/phptownhall/blog/2012/12/20/episode-3-ee-revolt-unit-test</id>
+    <id>http://phptownhall.com//blog/2012/12/20/episode-3-ee-revolt-unit-test</id>
     <link rel="enclosure" href="http://s3.amazonaws.com/phptownhall/3.mp3" type="audio/mpeg" />
     <content type="html"><![CDATA[<p>ExpressionEngine Pro <a href="https://twitter.com/mediagirl">Anna Brown</a> and Testing Hero <a href="https://twitter.com/grmpyprogrammer">Chris Hartjes</a> join <a href="https://twitter.com/benedmunds">Ben Edmunds</a> and <a href="https://twitter.com/philsturgeon">Phil Sturgeon</a> to discuss the recent rumblings in the ExpressionEngine community and the
 new <a href="http://expressionengine.stackexchange.com">EE StackExchange site</a>. We talk about Inversion of Control (IoC), what it is, why its useful and how it&#8217;s done.</p>
@@ -37,9 +37,9 @@ new <a href="http://expressionengine.stackexchange.com">EE StackExchange site</a
   
   <entry>
     <title type="html"><![CDATA[Episode 2 - A Node hipster, beardy Python fan, PHP contributor and a Bristolian talk about PHP 5.5]]></title>
-    <link href="http://philsturgeon.github.com/phptownhall/blog/2012/11/30/episode-2-php-5.5/"/>
+    <link href="http://phptownhall.com//blog/2012/11/30/episode-2-php-5.5/"/>
     <updated>2012-11-30T21:02:00-05:00</updated>
-    <id>http://philsturgeon.github.com/phptownhall/blog/2012/11/30/episode-2-php-5.5</id>
+    <id>http://phptownhall.com//blog/2012/11/30/episode-2-php-5.5</id>
     <link rel="enclosure" href="http://s3.amazonaws.com/phptownhall/2.mp3" type="audio/mpeg" />
     <content type="html"><![CDATA[<p>We&#8217;re back for an &#8220;IRL&#8221; episode, with <a href="https://twitter.com/zackkitzmiller">Zack Kitzmiller</a>, <a href="https://twitter.com/seejohncode">John Crepezzi</a> and <a href="https://twitter.com/ircmaxell">Anthony Ferrera</a>, discussing PHP 5.5 and the new features it will bring.</p>
 
@@ -57,9 +57,9 @@ new <a href="http://expressionengine.stackexchange.com">EE StackExchange site</a
   
   <entry>
     <title type="html"><![CDATA[Episode 1 - Composer kicks ass, Laravel 4 is coming, and PHP Hosting sucks - guest Taylor Otwell]]></title>
-    <link href="http://philsturgeon.github.com/phptownhall/blog/2012/10/10/episode-1-composer-kicks-ass-and-php-hosting-sucks-guest-taylor-otwell/"/>
+    <link href="http://phptownhall.com//blog/2012/10/10/episode-1-composer-kicks-ass-and-php-hosting-sucks-guest-taylor-otwell/"/>
     <updated>2012-10-10T17:10:00-04:00</updated>
-    <id>http://philsturgeon.github.com/phptownhall/blog/2012/10/10/episode-1-composer-kicks-ass-and-php-hosting-sucks-guest-taylor-otwell</id>
+    <id>http://phptownhall.com//blog/2012/10/10/episode-1-composer-kicks-ass-and-php-hosting-sucks-guest-taylor-otwell</id>
     <link rel="enclosure" href="http://s3.amazonaws.com/phptownhall/1.mp3" type="audio/mpeg" />
     <content type="html"><![CDATA[<p>In the first episode of the PHP Town Hall podcast, Phil Sturgeon and Ben Edmunds rant about how awesome Composer is; chat with Taylor Otwell about the upcoming Laravel 4 release; and whine about how horrible PHP PAAS hosting is.</p>
 ]]></content>
