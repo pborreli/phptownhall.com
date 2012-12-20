@@ -4,7 +4,7 @@
   <title><![CDATA[PHP Town Hall]]></title>
   <link href="http://philsturgeon.github.com/phptownhall/atom.xml" rel="self"/>
   <link href="http://philsturgeon.github.com/phptownhall/"/>
-  <updated>2012-12-19T11:30:29-05:00</updated>
+  <updated>2012-12-20T11:06:02-05:00</updated>
   <id>http://philsturgeon.github.com/phptownhall/</id>
   <author>
     <name><![CDATA[Phil Sturgeon &amp; Ben Edmunds]]></name>
@@ -12,6 +12,26 @@
   </author>
   <generator uri="http://octopress.org/">Octopress</generator>
 
+  
+  <entry>
+    <title type="html"><![CDATA[Episode 3: ExpressionEngine StackExchange]]></title>
+    <link href="http://philsturgeon.github.com/phptownhall/blog/2012/12/20/episode-3-expressionengine-stackexchange/"/>
+    <updated>2012-12-20T10:47:00-05:00</updated>
+    <id>http://philsturgeon.github.com/phptownhall/blog/2012/12/20/episode-3-expressionengine-stackexchange</id>
+    <link rel="enclosure" href="http://s3.amazonaws.com/phptownhall/3.mp3" type="audio/mpeg" />
+    <content type="html"><![CDATA[<p>ExpressionEngine Pro <a href="https://twitter.com/mediagirl">Anna Brown</a> and Testing Hero <a href="https://twitter.com/grmpyprogrammer">Chris Hartjes</a> join <a href="https://twitter.com/benedmunds">Ben Edmunds</a> and <a href="https://twitter.com/philsturgeon">Phil Sturgeon</a> to discuss the recent rumblings in the ExpressionEngine community and the
+new <a href="http://expressionengine.stackexchange.com">EE StackExchange site</a>. We talk about Inversion of Control (IoC), what it is, why its useful and how it&#8217;s done.</p>
+
+<p>We also talk a little bit about how PHP has been (and is continuing) to move towards a post-framework world thanks to independant framework-agnostic components - and of course we talk with Chris about unit-testing.</p>
+
+<ul>
+<li><a href="http://expressionengine.stackexchange.com">ExpressionEngine StackExchange</a></li>
+<li><a href="https://leanpub.com/grumpy-testing">The Grumpy Programmer&#8217;s Guide To Building Testable PHP Applications</a></li>
+<li><a href="http://vimeo.com/53029232">Laravel 4 - IoC Controller Injection &amp; Unit Testing</a></li>
+</ul>
+
+]]></content>
+  </entry>
   
   <entry>
     <title type="html"><![CDATA[Episode 2 - A Node hipster, beardy Python fan, PHP contributor and a Bristolian talk about PHP 5.5]]></title>
