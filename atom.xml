@@ -4,7 +4,7 @@
   <title><![CDATA[PHP Town Hall]]></title>
   <link href="http://philsturgeon.github.com/phptownhall/atom.xml" rel="self"/>
   <link href="http://philsturgeon.github.com/phptownhall/"/>
-  <updated>2012-12-20T11:26:19-05:00</updated>
+  <updated>2012-12-20T11:55:59-05:00</updated>
   <id>http://philsturgeon.github.com/phptownhall/</id>
   <author>
     <name><![CDATA[Phil Sturgeon &amp; Ben Edmunds]]></name>
@@ -14,10 +14,10 @@
 
   
   <entry>
-    <title type="html"><![CDATA[Episode 3: ExpressionEngine StackExchange]]></title>
-    <link href="http://philsturgeon.github.com/phptownhall/blog/2012/12/20/episode-3-expressionengine-stackexchange/"/>
+    <title type="html"><![CDATA[Episode 3: The EE revolt of 2012 and why you should unit-test your shit]]></title>
+    <link href="http://philsturgeon.github.com/phptownhall/blog/2012/12/20/episode-3-ee-revolt-unit-test/"/>
     <updated>2012-12-20T10:47:00-05:00</updated>
-    <id>http://philsturgeon.github.com/phptownhall/blog/2012/12/20/episode-3-expressionengine-stackexchange</id>
+    <id>http://philsturgeon.github.com/phptownhall/blog/2012/12/20/episode-3-ee-revolt-unit-test</id>
     <link rel="enclosure" href="http://s3.amazonaws.com/phptownhall/3.mp3" type="audio/mpeg" />
     <content type="html"><![CDATA[<p>ExpressionEngine Pro <a href="https://twitter.com/mediagirl">Anna Brown</a> and Testing Hero <a href="https://twitter.com/grmpyprogrammer">Chris Hartjes</a> join <a href="https://twitter.com/benedmunds">Ben Edmunds</a> and <a href="https://twitter.com/philsturgeon">Phil Sturgeon</a> to discuss the recent rumblings in the ExpressionEngine community and the
 new <a href="http://expressionengine.stackexchange.com">EE StackExchange site</a>. We talk about Inversion of Control (IoC), what it is, why its useful and how it&#8217;s done.</p>
