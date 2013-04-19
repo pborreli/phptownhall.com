@@ -4,26 +4,44 @@
         <loc>
             http://phptownhall.com//blog/2012/10/10/episode-1-composer-kicks-ass-and-php-hosting-sucks-guest-taylor-otwell/
         </loc>
-        <lastmod>2012-12-20T11:50:55-05:00</lastmod>
+        <lastmod>2013-04-19T09:59:33-04:00</lastmod>
     </url>
     <url>
-        <loc>http://phptownhall.com//blog/2012/11/30/episode-2-php-5.5/</loc>
-        <lastmod>2012-12-20T11:51:44-05:00</lastmod>
+        <loc>http://phptownhall.com//blog/2012/12/04/episode-2-php-5.5/</loc>
+        <lastmod>2013-04-19T09:59:36-04:00</lastmod>
     </url>
     <url>
-        <loc>http://phptownhall.com//blog/2012/12/20/episode-3-ee-revolt-unit-test/</loc>
-        <lastmod>2012-12-20T11:52:20-05:00</lastmod>
+        <loc>
+            http://phptownhall.com//blog/2012/12/20/episode-3-expressionengine-stackexchange/
+        </loc>
+        <lastmod>2013-01-15T17:24:50-05:00</lastmod>
+    </url>
+    <url>
+        <loc>
+            http://phptownhall.com//blog/2013/02/15/episode-4-phpsvision-beards-and-little-people/
+        </loc>
+        <lastmod>2013-04-19T09:45:33-04:00</lastmod>
+    </url>
+    <url>
+        <loc>http://phptownhall.com//blog/2013/03/03/episode-5-phpness-gate/</loc>
+        <lastmod>2013-04-19T10:02:28-04:00</lastmod>
+    </url>
+    <url>
+        <loc>
+            http://phptownhall.com//blog/2013/04/19/episode-6-psr-x-and-the-mexican-standoff/
+        </loc>
+        <lastmod>2013-04-19T11:03:56-04:00</lastmod>
     </url>
     <url>
         <loc>http://phptownhall.com//blog/archives/</loc>
-        <lastmod>2012-12-20T11:52:20-05:00</lastmod>
+        <lastmod>2013-04-19T11:03:56-04:00</lastmod>
     </url>
     <url>
         <loc>http://phptownhall.com//</loc>
-        <lastmod>2012-12-20T11:52:20-05:00</lastmod>
+        <lastmod>2013-04-19T11:03:56-04:00</lastmod>
     </url>
     <url>
         <loc>http://phptownhall.com//itunes.rss</loc>
-        <lastmod>2012-12-20T11:55:42-05:00</lastmod>
+        <lastmod>2013-04-19T09:46:32-04:00</lastmod>
     </url>
 </urlset>
